@@ -56,7 +56,7 @@ Make sure you have the following installed:
 
 ## 📸 Screenshots
 
-![QR Code Generator Screenshot](![image](https://github.com/user-attachments/assets/9298501c-7719-4b32-8cc2-80e0689a71c2)![image](https://github.com/user-attachments/assets/eb66bcc4-b037-4a5f-9f93-aa7f7e1d50ae)
+(![image](https://github.com/user-attachments/assets/9298501c-7719-4b32-8cc2-80e0689a71c2)![image](https://github.com/user-attachments/assets/eb66bcc4-b037-4a5f-9f93-aa7f7e1d50ae)
 
 
 
