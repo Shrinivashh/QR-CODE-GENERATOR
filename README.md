@@ -1,4 +1,4 @@
-Here’s a stylized README for your project that features a QR Code Generator:
+
 
 ---
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Feel free to adjust the links, paths, and information as needed for your specific project setup!**
+
